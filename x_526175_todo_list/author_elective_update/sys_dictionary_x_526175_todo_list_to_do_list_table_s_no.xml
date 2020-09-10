@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="s_no" table="x_526175_todo_list_to_do_list_table">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>S.No</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>s_no</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Integer">integer</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_526175_todo_list_to_do_list_table</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 18:32:58</sys_created_on>
+        <sys_id>a43115dbdb831010479ec4ab0b961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>S.No</sys_name>
+        <sys_package display_value="ToDo List App" source="x_526175_todo_list">d5dfcd5fdb431010479ec4ab0b96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</sys_scope>
+        <sys_update_name>sys_dictionary_x_526175_todo_list_to_do_list_table_s_no</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 18:32:58</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</application>
+        <file_path/>
+        <instance_id>c058157fdb2197c452e3f70fbf96198d</instance_id>
+        <instance_name>dev57235</instance_name>
+        <name>sys_dictionary_x_526175_todo_list_to_do_list_table_s_no</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="s_no" table="x_526175_todo_list_to_do_list_table"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>S.No</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>s_no</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="Integer">integer</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_526175_todo_list_to_do_list_table</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-09 18:32:58</sys_created_on><sys_id>a43115dbdb831010479ec4ab0b961900</sys_id><sys_mod_count>0</sys_mod_count><sys_name>S.No</sys_name><sys_package display_value="ToDo List App" source="x_526175_todo_list">d5dfcd5fdb431010479ec4ab0b96192a</sys_package><sys_policy/><sys_scope display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</sys_scope><sys_update_name>sys_dictionary_x_526175_todo_list_to_do_list_table_s_no</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-09 18:32:58</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>75689316</payload_hash>
+        <record_name>To Do List Table.S.No</record_name>
+        <reverted_from/>
+        <source>19dfcd5fdb431010479ec4ab0b96192c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 18:32:59</sys_created_on>
+        <sys_id>e83115dbdb831010479ec4ab0b961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1747424703e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 18:32:59</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>643115db85831010981c77d745d94563</update_guid>
+        <update_guid_history>643115db85831010981c77d745d94563:75689316</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-10 21:10:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>0427e027956d46d883d162b29b25dae4</sys_id>
+        <sys_metadata>a43115dbdb831010479ec4ab0b961900</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>S.No</sys_name>
+        <sys_package display_value="ToDo List App" source="x_526175_todo_list">d5dfcd5fdb431010479ec4ab0b96192a</sys_package>
+        <sys_parent display_value="To Do List Table">04319d9bdb831010479ec4ab0b96190d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</sys_scope>
+        <sys_scope_delete display_value="">1506ff1ca33a41b2b794b05670d4d0e4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_526175_todo_list_to_do_list_table_s_no</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_526175_todo_list_to_do_list_table_s_no">e83115dbdb831010479ec4ab0b961963</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-10 21:10:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>1</order>
+        <sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog>
+        <sp_portal display_value="ToDo List App">432d9953dbc71010479ec4ab0b961963</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 19:33:20</sys_created_on>
+        <sys_id>eefe9993dbc71010479ec4ab0b9619d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Resources.ToDo List App</sys_name>
+        <sys_package display_value="ToDo List App" source="x_526175_todo_list">d5dfcd5fdb431010479ec4ab0b96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_eefe9993dbc71010479ec4ab0b9619d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 19:36:26</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

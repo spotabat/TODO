@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="To Do List Tables">8e81d55fdb831010479ec4ab0b9619f5</category>
+        <columns>date,items,notes,number,online_url,priority,s_no,shop_name,status_completed,sys_class_name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on,target_date</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 18:34:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0a81d55fdb831010479ec4ab0b9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ToDo List App" source="x_526175_todo_list">d5dfcd5fdb431010479ec4ab0b96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</sys_scope>
+        <sys_update_name>sys_aw_list_0a81d55fdb831010479ec4ab0b9619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 18:34:27</sys_updated_on>
+        <table>x_526175_todo_list_to_do_list_table</table>
+        <title>All</title>
+        <workspace display_value="ToDo List App">d18155d3db831010479ec4ab0b961902</workspace>
+    </sys_aw_list>
+</record_update>

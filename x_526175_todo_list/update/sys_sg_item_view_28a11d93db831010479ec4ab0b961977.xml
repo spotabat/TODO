@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="ToDo List App To Do List Table">eca11d93db831010479ec4ab0b961976</data_item>
+        <dependency_fields>date,items,notes,number,online_url,priority</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"CornerRadius":2,"CellId":"date","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","BackgroundColor":"#f1f1f1","Width":100,"Height":21,"Text":"","Font":{"Weight":"semibold","Size":13},"TextColor":"#293e40","Type":"Text"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"CellId":"items","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","Type":"Text"}],"Distribution":"Auto","Alignment":"Right","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Equal","Alignment":"Stretch","Orientation":"Horizontal","Type":"ViewGroup"},{"CellId":"notes","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","Text":"","Font":{"Weight":"regular","Size":18},"TextColor":"#293e40","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Text":"${number}","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"online_url","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"CellId":"number","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Text":"${priority}","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"CellId":"priority","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":7},"Type":"ViewGroup"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Alignment":"Stretch","Orientation":"Vertical","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json>
+        <name>To Do List Table List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 18:34:54</sys_created_on>
+        <sys_id>28a11d93db831010479ec4ab0b961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do List Table List Screen Item View</sys_name>
+        <sys_package display_value="ToDo List App" source="x_526175_todo_list">d5dfcd5fdb431010479ec4ab0b96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</sys_scope>
+        <sys_update_name>sys_sg_item_view_28a11d93db831010479ec4ab0b961977</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 18:34:54</sys_updated_on>
+        <table>x_526175_todo_list_to_do_list_table</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=28a11d93db831010479ec4ab0b961977"/>
+</record_update>

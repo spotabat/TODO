@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">93e25d97dbc31010479ec4ab0b961905</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">17e25d97dbc31010479ec4ab0b961903</icon>
+        <label>ToDo List App Launcher Button Instance</label>
+        <location>top</location>
+        <name>ToDo List App Launcher Button Instance</name>
+        <order/>
+        <parent>20a11d93db831010479ec4ab0b961974</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 18:40:33</sys_created_on>
+        <sys_id>e3e25d97dbc31010479ec4ab0b961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ToDo List App Launcher Button Instance</sys_name>
+        <sys_package display_value="ToDo List App" source="x_526175_todo_list">d5dfcd5fdb431010479ec4ab0b96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e3e25d97dbc31010479ec4ab0b961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 18:40:33</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=e3e25d97dbc31010479ec4ab0b961907"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</application>
+        <file_path/>
+        <instance_id>c058157fdb2197c452e3f70fbf96198d</instance_id>
+        <instance_name>dev57235</instance_name>
+        <name>sys_sg_button_instance_e3e25d97dbc31010479ec4ab0b961907</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">93e25d97dbc31010479ec4ab0b961905</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">17e25d97dbc31010479ec4ab0b961903</icon><label>ToDo List App Launcher Button Instance</label><location>top</location><name>ToDo List App Launcher Button Instance</name><order/><parent>20a11d93db831010479ec4ab0b961974</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-09 18:40:33</sys_created_on><sys_id>e3e25d97dbc31010479ec4ab0b961907</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ToDo List App Launcher Button Instance</sys_name><sys_package display_value="ToDo List App" source="x_526175_todo_list">d5dfcd5fdb431010479ec4ab0b96192a</sys_package><sys_policy/><sys_scope display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</sys_scope><sys_update_name>sys_sg_button_instance_e3e25d97dbc31010479ec4ab0b961907</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-09 18:40:33</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=e3e25d97dbc31010479ec4ab0b961907"/></record_update>]]></payload>
+        <payload_hash>1161665886</payload_hash>
+        <record_name>ToDo List App Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>19dfcd5fdb431010479ec4ab0b96192c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 18:40:33</sys_created_on>
+        <sys_id>23e25d97dbc31010479ec4ab0b961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174742b5dd20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 18:40:33</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>6be25d97a9c310107b1ca5fca9d21108</update_guid>
+        <update_guid_history>6be25d97a9c310107b1ca5fca9d21108:1161665886</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 18:40:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>49c4194c51104900b875b1c235784000</sys_id>
+        <sys_metadata>e3e25d97dbc31010479ec4ab0b961907</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ToDo List App Launcher Button Instance</sys_name>
+        <sys_package display_value="ToDo List App" source="x_526175_todo_list">d5dfcd5fdb431010479ec4ab0b96192a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</sys_scope>
+        <sys_scope_delete display_value="">1506ff1ca33a41b2b794b05670d4d0e4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_e3e25d97dbc31010479ec4ab0b961907</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_e3e25d97dbc31010479ec4ab0b961907">23e25d97dbc31010479ec4ab0b961909</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 18:40:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

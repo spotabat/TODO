@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New (To Do List Table)</name>
+        <query_condition table="x_526175_todo_list_to_do_list_table">sys_idSTARTSWITH{{To Do List Table sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{To Do List Table sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 18:34:54</sys_created_on>
+        <sys_id>bca1959fdb831010479ec4ab0b961962</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New (To Do List Table)</sys_name>
+        <sys_package display_value="ToDo List App" source="x_526175_todo_list">d5dfcd5fdb431010479ec4ab0b96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ToDo List App">d5dfcd5fdb431010479ec4ab0b96192a</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_bca1959fdb831010479ec4ab0b961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-10 21:19:49</sys_updated_on>
+        <table>x_526175_todo_list_to_do_list_table</table>
+        <template>date={{To Do List Table date}}^items={{To Do List Table items}}^notes={{To Do List Table notes}}^number={{To Do List Table number}}^online_url={{To Do List Table online_url}}^priority={{To Do List Table priority}}^status_completed={{To Do List Table status_completed}}^target_date={{To Do List Table target_date}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=bca1959fdb831010479ec4ab0b961962"/>
+</record_update>
